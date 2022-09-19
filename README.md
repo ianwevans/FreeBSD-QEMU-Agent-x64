@@ -1,5 +1,5 @@
 # FreeBSD-QEMU-Agent-x64
-The proper way to install the QEMU-Agent for FreeBSD 12.x hosts
+A simple install for QEMU agents on FreeBSD 12.x+
 
 **Instructions:**
 
